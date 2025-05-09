@@ -30,15 +30,6 @@ pip install -r requirements.txt
 
 ## 📁 Repository Structure
 
-Co-BERT/
-├── Co-BERT.ipynb # Main notebook with all experiments
-├── Dataset/ # Folder with code-mixed datasets
-│ ├── hinglish.txt
-│ ├── kanglish.txt
-│ └── tanglish.txt
-├── README.md # Project documentation
-└── LICENSE # MIT License
-
 
 
 
