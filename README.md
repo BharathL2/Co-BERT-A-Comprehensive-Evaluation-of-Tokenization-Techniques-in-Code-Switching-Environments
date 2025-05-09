@@ -29,6 +29,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 ## 📁 Repository Structure
+---
 Co-BERT/
 ├── Co-BERT.ipynb
 ├── Dataset/
@@ -37,7 +38,7 @@ Co-BERT/
 │   └── tanglish.txt
 ├── README.md
 └── LICENSE
-
+---
 
 
 Clone the repository
