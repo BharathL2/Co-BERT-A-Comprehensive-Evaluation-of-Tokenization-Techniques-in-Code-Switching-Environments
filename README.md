@@ -41,7 +41,7 @@ Co-BERT/
 └── LICENSE               # MIT License
 
 Clone the repository
-git clone https://github.com/madhans476/Co-BERT.git
+git clone [https://github.com/BharathL2/Co-BERT-A-Comprehensive-Evaluation-of-Tokenization-Techniques-in-Code-Switching-Environments]
 cd Co-BERT
 
 ## 📊 Results Overview
