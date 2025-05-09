@@ -68,5 +68,9 @@ Gnanesh A R
 
 Madhan S
 
+## 📜 License
+This project is licensed under the MIT License.
 
+
+Let me know if you'd also like a `requirements.txt` file generated from the notebook.
 
