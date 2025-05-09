@@ -30,15 +30,14 @@ pip install -r requirements.txt
 
 ## 📁 Repository Structure
 Co-BERT/
-├── Co-BERT.ipynb         # Main notebook with all experiments
-├── Dataset/              # Folder with code-mixed datasets
-│   ├── hinglish.txt
-│   ├── kanglish.txt
-│   └── tanglish.txt
-├── image/
-│   └── arch.png          # Model architecture diagram
-├── README.md             # Project documentation
-└── LICENSE               # MIT License
+├── Co-BERT.ipynb # Main notebook with all experiments
+├── Dataset/ # Folder with code-mixed datasets
+│ ├── hinglish.txt
+│ ├── kanglish.txt
+│ └── tanglish.txt
+├── README.md # Project documentation
+└── LICENSE # MIT License
+
 
 Clone the repository
 git clone [https://github.com/BharathL2/Co-BERT-A-Comprehensive-Evaluation-of-Tokenization-Techniques-in-Code-Switching-Environments]
