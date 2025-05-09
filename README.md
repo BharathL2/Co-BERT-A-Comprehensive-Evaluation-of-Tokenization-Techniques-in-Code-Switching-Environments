@@ -29,6 +29,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 ## 📁 Repository Structure
+
 ---
 Co-BERT/
 ├── Co-BERT.ipynb
